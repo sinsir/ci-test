@@ -9,7 +9,7 @@ public class App
 
 	public String getHelloWorldString()
 	{
-		return "Hello World, this is a branch!";
+		return "Hello World, Gareth here!";
 	}
 
     public static void main( String[] args )

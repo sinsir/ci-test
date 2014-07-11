@@ -17,6 +17,6 @@ public class AppTest
     {
         App test = new App();
         assertNotNull(test);
-        assertEquals("Hello World, this is a branch!",test.getHelloWorldString());
+        assertEquals("Hello World, Gareth here!",test.getHelloWorldString());
     }
 }
