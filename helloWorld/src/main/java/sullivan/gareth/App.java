@@ -17,6 +17,10 @@ public class App
 		return "Hello World, master branch here!";
 	}
 
+	public String getHelloWorldString3()
+	{
+		return "Hello World, master branch here!";
+	}
     public static void main( String[] args )
     {
     	App myApp = new App();
