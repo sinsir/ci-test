@@ -7,19 +7,21 @@ package sullivan.gareth;
 public class App 
 {
 
+	protected static final String HELLO_WORLD_STRING = "Hello World";
+	
 	public String getHelloWorldString()
 	{
-		return "Hello World, Gareth here!";
+		return HELLO_WORLD_STRING  + ", Gareth here!";
 	}
 
 	public String getHelloWorldString2()
 	{
-		return "Hello World, master branch here!";
+		return HELLO_WORLD_STRING  + ", master branch here!";
 	}
 
 	public String getHelloWorldString3()
 	{
-		return "Hello World, master branch here!";
+		return HELLO_WORLD_STRING  + ", master branch here!";
 	}
     public static void main( String[] args )
     {
